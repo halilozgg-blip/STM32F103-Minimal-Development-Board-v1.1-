@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "da5dd388-979b-4f6f-ac75-a381a98c2443")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 153.035 19.685)
+		(size 120.015 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09cfc5d4-d7b8-47ca-99c2-755668315744")
+		(property "Sheetname" "MCU_Core"
+			(at 153.035 18.9734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_core.kicad_sch"
+			(at 153.035 90.1196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32_Minimal_DevBoard_v1.1"
+				(path "/da5dd388-979b-4f6f-ac75-a381a98c2443"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 106.045)
+		(size 125.73 81.28)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "13c61584-2105-4ea8-9f7a-87cd08da1840")
+		(property "Sheetname" "PERİPHERALS"
+			(at 22.86 105.3334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Peripherals.kicad_sch"
+			(at 22.86 187.9096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32_Minimal_DevBoard_v1.1"
+				(path "/da5dd388-979b-4f6f-ac75-a381a98c2443"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 22.86 19.685)
+		(size 123.19 69.85)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b1706b36-2311-4d4c-8ef2-cf9c4764a771")
+		(property "Sheetname" "POWER"
+			(at 22.86 18.9734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 22.86 90.1196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STM32_Minimal_DevBoard_v1.1"
+				(path "/da5dd388-979b-4f6f-ac75-a381a98c2443"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
