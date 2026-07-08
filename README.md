@@ -1,5 +1,5 @@
 # STM32F103 Minimal Development Board (v1.1)
-![Board 3D Render](buraya_kopyaladigin_linki_yapistir)
+![Board 3D Render](https://github.com/halilozgg-blip/STM32F103-Minimal-Development-Board-v1.1-/blob/main/STM32F103%20IMAGES%20AND%20DOCs/STM32_Minimal_DevBoard_v1.1(3).png)
 ![KiCad](https://img.shields.io/badge/Designed_in-KiCad_9.0-blue.svg)
 ![Hardware](https://img.shields.io/badge/Hardware-Open_Source-orange.svg)
 
